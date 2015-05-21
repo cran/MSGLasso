@@ -1,0 +1,2 @@
+useDynLib(MSGLasso)
+export(MSGLasso, MSGLasso.cv, Cal_grpWTs, FindingGRGrps, FindingPQGrps)

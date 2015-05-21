@@ -1,0 +1,14 @@
+Package: MSGLasso
+Type: Package
+Title: Multivariate Sparse Group Lasso for the Multivariate Multiple
+        Linear Regression with an Arbitrary Group Structure
+Version: 1.1
+Date: 2015-05-21
+Author: Yanming Li <liyanmin@umich.edu>, Bin Nan <bnan@umich.edu>, Ji Zhu <jizhu@umich.edu>
+Maintainer: Yanming Li <liyanmin@umich.edu>
+Description: For fitting multivariate response and multiple predictor linear regressions with an arbitrary group structure assigned on the regression coefficient matrix, using the multivariate sparse group lasso and the mixed coordinate descent algorithm.
+License: GPL (>= 2)
+Packaged: 2015-05-21 17:16:28 UTC; User
+NeedsCompilation: yes
+Repository: CRAN
+Date/Publication: 2015-05-27 01:42:06
