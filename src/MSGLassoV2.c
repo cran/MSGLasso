@@ -296,7 +296,7 @@ gmax=*ggmax+1;
 
 
 for(i=0; i<(P+Q); i++)
-  for(j=0; j<=gmax; j++)
+  for(j=0; j<gmax; j++)
      PQgrps[i*gmax+j]=999;
 
     for(p=0;p<P;p++)
@@ -344,7 +344,7 @@ R=*RR;
 cmax=*ccmax+1;
 
 for(i=0; i<(G+R); i++)
-  for(j=0; j<=cmax; j++)
+  for(j=0; j<cmax; j++)
      GRgrps[i*cmax+j]=999;
 
 
